@@ -1,2 +1,3 @@
 VisualGit.sln
-.vs
+*.vs
+*.user
